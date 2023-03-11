@@ -1,4 +1,3 @@
-
 # Bench-Commands
 
 Let's discuss some of the bench commands
@@ -16,6 +15,8 @@ General Commands:
 8. bench backup - create a backup of the default site
 9. bench  update - pulls changes for bench-repo, apps, builds (js and css),etc...
 10.bench destroy-all-sessions - destroy all sessions
+
+![Screenshot from 2023-03-11 11-01-25](https://user-images.githubusercontent.com/124557026/224466918-3ec969b0-8d1f-46aa-a025-42d70a394467.png)
 
 ![Developement commands](https://user-images.githubusercontent.com/124557026/224465967-0a661dd3-6867-4682-a649-43918573c5de.png)
 
