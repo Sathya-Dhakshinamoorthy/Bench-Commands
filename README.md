@@ -43,12 +43,12 @@ Development commands:
 7. bench get-app [repo-link] - downloads an app from the github repository
 8. bench --site [sitename] install-app [app-name]- installing the created app inside the site
 9. bench drop-site [sitename] --force -Drop or removing the unwanted site inside the sites directory. After dropping the site, it was saved in archieved-sites.
-10.bench --site [sitename] list-apps -listdown the apps inside the particular site.
+10.bench --site [sitename] list-apps -listdown the apps inside the particular site
 11.bench remove-from-installed-apps [app-name] - remove app from the list of apps
 12.bench uninstall-app [app-name] - delete app and their linkage
 13.bench console - opens a python console in the bench env
-14.bench --site[sitename] --force reinstall -delete the database in the site and reinstall again with fresh database.
-15.bench --site [sitename] mariadb -opens sql console.
+14.bench --site[sitename] --force reinstall -delete the database in the site and reinstall again with fresh database
+15.bench --site [sitename] mariadb -opens sql console
 
 ![python_console](https://user-images.githubusercontent.com/124557026/224465970-41c6a71a-1246-4f5c-b59d-cf401d413cc3.png)
 
